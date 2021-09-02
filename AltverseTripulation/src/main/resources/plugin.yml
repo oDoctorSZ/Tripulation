@@ -1,0 +1,6 @@
+name: AltverseTripulation
+version: ${project.version}
+main: dc.jadir.altversetripulation.AltverseTripulation
+commands:
+  trip:
+    description: Abre

@@ -1,0 +1,12 @@
+dc\jadir\altversetripulation\enums\Role.class
+dc\jadir\altversetripulation\guis\LeaderGUI.class
+dc\jadir\altversetripulation\utils\ChatUtil.class
+dc\jadir\altversetripulation\references\Tripulator.class
+dc\jadir\altversetripulation\events\PInvetoryClickEvent.class
+dc\jadir\altversetripulation\utils\InventoryBuilder.class
+dc\jadir\altversetripulation\commands\TripCommands.class
+dc\jadir\altversetripulation\references\CommandBase.class
+dc\jadir\altversetripulation\references\Tripulation.class
+dc\jadir\altversetripulation\AltverseTripulation.class
+dc\jadir\altversetripulation\manager\CommandManager.class
+dc\jadir\altversetripulation\utils\ItemBuilder.class
